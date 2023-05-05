@@ -1,0 +1,24 @@
+{
+  "name": "watch-me",
+  "version": "0.1.0",
+  "private": true,
+  "scripts": {
+    "dev": "next dev",
+    "build": "next build",
+    "start": "next start",
+    "lint": "next lint",
+    "server": "json-server server.json --port 3333"
+  },
+  "dependencies": {
+    "@types/node": "18.16.3",
+    "@types/react": "18.2.4",
+    "@types/react-dom": "18.2.3",
+    "axios": "^1.4.0",
+    "next": "13.3.4",
+    "react": "18.2.0",
+    "react-dom": "18.2.0",
+    "react-icons": "^4.8.0",
+    "sass": "^1.62.1",
+    "typescript": "5.0.4"
+  }
+}

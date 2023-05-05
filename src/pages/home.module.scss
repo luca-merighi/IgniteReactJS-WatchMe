@@ -1,0 +1,9 @@
+.content {
+    grid-area: content;
+    padding: 2rem 3rem;
+    color: var(--zinc-200);
+
+    display: flex;
+    flex-wrap: wrap;
+    gap: 2rem;
+}

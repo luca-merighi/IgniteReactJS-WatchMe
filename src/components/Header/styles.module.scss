@@ -1,0 +1,15 @@
+.header {
+    grid-area: header;
+    padding: 2rem 3rem;
+    border-bottom: 2px solid var(--zinc-800);
+
+    h3 {
+        font-size: 2rem;
+        color: var(--zinc-400);
+        letter-spacing: 1px;
+
+        span {
+            color: var(--zinc-100);
+        }
+    }
+}
